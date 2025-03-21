@@ -1,7 +1,7 @@
 import Button from "../Button/Button";
 function Section5() {
   return (
-    <div className="sec1">
+ <div>
       <div class="card border rounded p-3" style={{ width: "20rem" }}>
         <img
           src="https://gharyal.com/cdn/shop/products/828_srg_652-1_360x.webp?v=1686641049"
@@ -20,7 +20,7 @@ function Section5() {
           <Button tittle={"Instant Buy"} />
         </div>
       </div>
-    </div>
+      </div>
   );
 }
 export default Section5;

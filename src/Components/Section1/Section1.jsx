@@ -1,7 +1,7 @@
 import Button from "../Button/Button";
 function Section1() {
   return (
-    <div className="sec1">
+    <div>
       <div class="card border rounded p-3" style={{ width: "20rem" }}>
         <img
           src="https://gharyal.com/cdn/shop/files/A17326211B1A1_720x.webp?v=1686641642"

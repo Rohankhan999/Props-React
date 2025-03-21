@@ -1,7 +1,7 @@
 import Button from "../Button/Button";
 function Section6() {
   return (
-    <div className="sec1">
+  <div>
       <div class="card border rounded p-3" style={{ width: "20rem" }}>
         <img
           src="https://gharyal.com/cdn/shop/products/83019_s_639-1_360x.webp?v=1686641055"
@@ -20,7 +20,7 @@ function Section6() {
           <Button tittle={"Click and Get"} />
         </div>
       </div>
-    </div>
+      </div>
   );
 }
 export default Section6;
